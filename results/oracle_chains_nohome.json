@@ -1,0 +1,1162 @@
+[
+ {
+  "scenario": "S1",
+  "episode": 0,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 41.3
+ },
+ {
+  "scenario": "S1",
+  "episode": 1,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 39.3
+ },
+ {
+  "scenario": "S1",
+  "episode": 2,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 39.1
+ },
+ {
+  "scenario": "S1",
+  "episode": 3,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 40.1
+ },
+ {
+  "scenario": "S1",
+  "episode": 4,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": false,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": false,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 59.7
+ },
+ {
+  "scenario": "S1",
+  "episode": 5,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 39.8
+ },
+ {
+  "scenario": "S1",
+  "episode": 6,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 39.2
+ },
+ {
+  "scenario": "S1",
+  "episode": 7,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 39.2
+ },
+ {
+  "scenario": "S1",
+  "episode": 8,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 40.1
+ },
+ {
+  "scenario": "S1",
+  "episode": 9,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "turn on the stove",
+   "put the bowl on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "turn on the stove": true,
+   "put the bowl on the stove": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 39.0
+ },
+ {
+  "scenario": "S2",
+  "episode": 0,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 41.6
+ },
+ {
+  "scenario": "S2",
+  "episode": 1,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 42.5
+ },
+ {
+  "scenario": "S2",
+  "episode": 2,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 41.8
+ },
+ {
+  "scenario": "S2",
+  "episode": 3,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 59.6
+ },
+ {
+  "scenario": "S2",
+  "episode": 4,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 60.4
+ },
+ {
+  "scenario": "S2",
+  "episode": 5,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 42.5
+ },
+ {
+  "scenario": "S2",
+  "episode": 6,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 41.6
+ },
+ {
+  "scenario": "S2",
+  "episode": 7,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 60.3
+ },
+ {
+  "scenario": "S2",
+  "episode": 8,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 60.0
+ },
+ {
+  "scenario": "S2",
+  "episode": 9,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the cream cheese in the bowl",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the cream cheese in the bowl": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 60.4
+ },
+ {
+  "scenario": "S3",
+  "episode": 0,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 73.6
+ },
+ {
+  "scenario": "S3",
+  "episode": 1,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 73.5
+ },
+ {
+  "scenario": "S3",
+  "episode": 2,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 81.2
+ },
+ {
+  "scenario": "S3",
+  "episode": 3,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": false,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": false,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 90.2
+ },
+ {
+  "scenario": "S3",
+  "episode": 4,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 73.5
+ },
+ {
+  "scenario": "S3",
+  "episode": 5,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 73.3
+ },
+ {
+  "scenario": "S3",
+  "episode": 6,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 73.6
+ },
+ {
+  "scenario": "S3",
+  "episode": 7,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": false,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": false,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 89.3
+ },
+ {
+  "scenario": "S3",
+  "episode": 8,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 74.5
+ },
+ {
+  "scenario": "S3",
+  "episode": 9,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "open the middle drawer of the cabinet",
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "open the middle drawer of the cabinet": true,
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 85.6
+ },
+ {
+  "scenario": "S4",
+  "episode": 0,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 71.9
+ },
+ {
+  "scenario": "S4",
+  "episode": 1,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 71.4
+ },
+ {
+  "scenario": "S4",
+  "episode": 2,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 54.9
+ },
+ {
+  "scenario": "S4",
+  "episode": 3,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 88.6
+ },
+ {
+  "scenario": "S4",
+  "episode": 4,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 70.0
+ },
+ {
+  "scenario": "S4",
+  "episode": 5,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 90.0
+ },
+ {
+  "scenario": "S4",
+  "episode": 6,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 56.7
+ },
+ {
+  "scenario": "S4",
+  "episode": 7,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": false,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 73.6
+ },
+ {
+  "scenario": "S4",
+  "episode": 8,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 71.7
+ },
+ {
+  "scenario": "S4",
+  "episode": 9,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "turn on the stove",
+   "put the bowl on the plate"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "turn on the stove": true,
+   "put the bowl on the plate": false
+  },
+  "n_attempts": 3,
+  "vlm_calls": 0,
+  "wall_sec": 57.0
+ },
+ {
+  "scenario": "S5",
+  "episode": 0,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 41.1
+ },
+ {
+  "scenario": "S5",
+  "episode": 1,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 43.3
+ },
+ {
+  "scenario": "S5",
+  "episode": 2,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 42.3
+ },
+ {
+  "scenario": "S5",
+  "episode": 3,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 59.0
+ },
+ {
+  "scenario": "S5",
+  "episode": 4,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 41.8
+ },
+ {
+  "scenario": "S5",
+  "episode": 5,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": true
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": true
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 42.1
+ },
+ {
+  "scenario": "S5",
+  "episode": 6,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": false,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 58.9
+ },
+ {
+  "scenario": "S5",
+  "episode": 7,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 43.9
+ },
+ {
+  "scenario": "S5",
+  "episode": 8,
+  "ref_done_gt": false,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "all_done_gt": false,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": false
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 42.7
+ },
+ {
+  "scenario": "S5",
+  "episode": 9,
+  "ref_done_gt": true,
+  "ref_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": true
+  },
+  "all_done_gt": true,
+  "plan": [
+   "put the wine bottle on top of the cabinet",
+   "open the middle drawer of the cabinet"
+  ],
+  "plan_matches_ref": true,
+  "goals_gt": {
+   "put the wine bottle on top of the cabinet": true,
+   "open the middle drawer of the cabinet": true
+  },
+  "n_attempts": 2,
+  "vlm_calls": 0,
+  "wall_sec": 34.6
+ }
+]
